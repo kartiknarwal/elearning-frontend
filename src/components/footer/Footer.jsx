@@ -10,8 +10,8 @@ const Footer = () => {
     <footer>
         <div className="footer-content">
             <p>
-                &copy; 2024 E-Learning Platform. All rights reserved. <br />
-                 Made with ❤️ <a href="">kartik narwal</a>
+                &copy; 2024 Nextzenlearn . All rights reserved. <br />
+                 Made with ❤️ <a href="">Nextzenlearn</a>
             </p>
             <div className="social-links">
                 <a href="https://www.linkedin.com/in/kartik-narwal-64206225b/" target='_blank'>

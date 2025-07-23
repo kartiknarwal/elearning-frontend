@@ -8,6 +8,7 @@ import Register from './pages/auth/Register';
 import Verify from './pages/auth/Verify';
 import Footer from './components/footer/Footer';
 import About from './pages/about/About';
+import Contact from './pages/contact/contact'
 import Account from './pages/account/Account';
 import { UserData } from './context/UserContext';
 import Loading from './components/loading/Loading';
@@ -38,6 +39,7 @@ const App = () => {
           <Route path="/"  element={<Home/>}/>
           <Route path="/about"  element={<About/>}/>
           <Route path="/courses"  element={<Courses/>}/>
+          <Route path="/contact"  element={<Contact/>}/>
 
           <Route 
           path="/account"  

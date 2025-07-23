@@ -9,7 +9,7 @@ const Home = () => {
     <div>
       <div className="home">
         <div className="home-content">
-          <h1>Welcome to our E-Learning Platform</h1>
+          <h1>Welcome to Nextzenlearn</h1>
           <p>Learn,Grow and Push Past your Limits</p>
           <button  onClick={()=>navigate("/courses")} className='common-btn'>Get Started</button>
         </div>
